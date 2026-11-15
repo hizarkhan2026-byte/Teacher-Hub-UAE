@@ -1,0 +1,7 @@
+{
+  "appId": "ae.teacherhub.app",
+  "appName": "Teacher Hub UAE",
+  "webDir": "www",
+  "backgroundColor": "#0f4c45",
+  "server": { "androidScheme": "https" }
+}
